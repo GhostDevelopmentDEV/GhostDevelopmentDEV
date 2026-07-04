@@ -2,7 +2,6 @@
 ---
 
 # My projects
-* CSS Style Forge (WIP)
 * [MyWorks repository](https://github.com/GhostDevelopmentDEV/myworks.github.com) or [Website](https://ghostdevelopmentdev.github.io/myworks.github.com/)
 * [PyShell](https://github.com/GhostDevelopmentDEV/PyShell)
 * [PyCrypt](https://github.com/GhostDevelopmentDEV/PyCrypt)
