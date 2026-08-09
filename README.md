@@ -1,3 +1,5 @@
+![](assets/banner.jpg)
+
 # Hi, I am GhostDEV (a.k.a. BotanMethod)
 ---
 
